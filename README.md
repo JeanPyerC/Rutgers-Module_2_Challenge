@@ -10,8 +10,46 @@ This is a Module 2 challenge, focusing on VBA on stocks from 2017 to 2018.
 ## Results
 &nbsp;&nbsp;&nbsp;&nbsp; I was a able to create two Macros with commend buttons. Both Macros act different based on what you are clicking on. We will be fousing on the challenge of the project only. I also copied the Macro formula onto my github if anyone wants to review it.
 
-![Command Buttons](Macro_Buttons.png)
+![Command Buttons](Macro_Buttons.png)  
 
-&nbsp;&nbsp;&nbsp;&nbsp; 
+
+&nbsp;&nbsp;&nbsp;&nbsp; The first thing I had to do was to create a loop by assigning _i_ = 0 to 11. After that, it's going to replace the value of _i_ to the starting point of 0 and end at 11. Then, I assigned tickerIndex to equal to the value of tickers(_i_).   
+
+![](Macro0.png)         
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; Now we will be focusing on the year we slected within the Macro. If you selected 2018, it will activate that sheet. Then I assigned the tickerVolume to equal to zero. Our loop will begin shortly. 
+
+![](Macro1.png)  
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; Now I assigned _j_ to equal to 2 to Rowcount (_Rowcount equals to the row starting and ending within column "A"_). If the frist statment is true, it will follow the operation.
+
+![](Macro2.png)  
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; The next IF statement. We are focusing on the ticker starting price but we want to make sure we are getting the correct value. The script listed below will do that. It's focuing on the current row (_"A2"_) and before that row (_"A1"_), makeing sure we are obtaining the starting price.
+
+![](Macro3.png)  
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; The next IF statement. We are focusing on the ticker ending price but we want to make sure we are getting the correct value. The script listed below will do that. It's focuing on the current row (_"A2"_) and After that row (_"A1"_), makeing sure we are obtaining the ending price.
+
+![](Macro4.png)  
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; After all that, the value will be pasted onto the following the cells. Repeating the loop, but to the next value.   
+
+![](Macro5.png) 
+
+
+Once the macro is complete, we will get the following format listed below. 
 
 ![All Stocks 2017 vs 2018](All_Stocks_2017&2018.png)
+
+
+## Summary
+
+
+
+
