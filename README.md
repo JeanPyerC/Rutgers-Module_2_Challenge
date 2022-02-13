@@ -7,4 +7,11 @@ This is a Module 2 challenge, focusing on VBA on stocks from 2017 to 2018.
 
 &nbsp;&nbsp;&nbsp;&nbsp; By viewing the data within the year of 2018, you can see our average return percentage is negative 8.5. Tickers ENPH and RUN are the only tickers with positive return percentage. Ticker AY has the lowest daily volume with a return percent of negative 7.3. 
 
-![All Stocks 2017 vs 2018](02.13.2022%20-%20Challenge/All_Stocks_2017&2018)
+## Results
+&nbsp;&nbsp;&nbsp;&nbsp; I was a able to create two Macros with commend buttons. Both Macros act different based on what you are clicking on. We will be fousing on the challenge of the project only.
+
+![Command Buttons](Macro_Buttons.png)
+
+
+
+![All Stocks 2017 vs 2018](All_Stocks_2017&2018.png)
