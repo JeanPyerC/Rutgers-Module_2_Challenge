@@ -49,6 +49,16 @@ Once the macro is complete, we will get the following format listed below.
 
 
 ## Summary
+**1. What are the advantages or disadvantages of refactoring code?**   
+ - Advantages of refactoring code: understandable code when you come back to look at it. Minimize the script to have it run quicker.   
+ - Disadvantages of refactoring code: you may underestimate the amount of time for refactoring and end up working on it longer than you planned.  
+    
+**2. How do these pros and cons apply to refactoring the orginal VBA script?**  
+- Advantage: We added lines to have it run to achieve our goal.    
+- Disadvantage: It did take awhile, but we were able to complete it before the due date.   
+    
+    
+
 
 
 
