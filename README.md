@@ -1,4 +1,4 @@
-# MODULE_2_CHALLENGE
+# Rutgers - Module 2 Challenge
 This is a Module 2 challenge, focusing on VBA on stocks from 2017 to 2018.
 ## Overview of Project
 &nbsp;&nbsp;&nbsp;&nbsp; Purpose of this project is to understand VBA programming. To understand the basic structure of creating arrays, creating loops, and reading/storing the values for each specific task.  It’s a different language, but this can help in the future. Imagine someone who doesn’t know nothing about excel needs a specific report. Instead of having one person writing a formula over and over again, you can be the hero and say, “Hey I can create a macro where it can automatically run the formula with a click of a button.” That my friend, is what we did. 
